@@ -4,7 +4,7 @@ icon: fas fa-arrows-to-eye
 order: 3
 
 description: Cum a fost perceput?
-# author: nume autor aici
+author: besa
 toc: true
 image:
   path: /assets/img/biographyimgtop.jpg

@@ -4,7 +4,7 @@ icon: fas fa-person
 order: 1
 
 description: Cine a fost?
-# author: nume autor aici
+author: besa
 toc: true
 image:
   path: /assets/img/biographyimgtop.jpg

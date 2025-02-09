@@ -4,7 +4,7 @@ icon: fas fa-scale-unbalanced
 order: 2
 
 description: Cum a ajuns la putere și ce a făcut?
-# author: nume autor aici
+author: besa
 toc: true
 image:
   path: /assets/img/biographyimgtop.jpg
