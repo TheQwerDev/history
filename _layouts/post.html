@@ -9,7 +9,6 @@ tail_includes:
 script_includes:
   - comment
 ---
-
 {% include lang.html %}
 
 {% include toc-status.html %}
@@ -18,7 +17,7 @@ script_includes:
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
-      <p class="post-desc fw-light mb-4">{{ page.description }}</p>
+      <p class="post-desc fw mb-4">{{ page.description }}</p>
     {% endif %}
 
     <div class="post-meta text-muted">
@@ -92,7 +91,7 @@ script_includes:
           {% endif %}
 
           <!-- read time -->
-          {% include read-time.html content=content prompt=true lang=lang %}
+          {% comment %} {% include read-time.html content=content prompt=true lang=lang %} {% endcomment %}
         </div>
       </div>
     </div>
@@ -159,19 +158,21 @@ script_includes:
         d-flex justify-content-between align-items-center mt-5 pb-2
       "
     >
-      <div class="license-wrapper">
-        {% if site.data.locales[lang].copyright.license.template %}
-          {% capture _replacement %}
-        <a href="{{ site.data.locales[lang].copyright.license.link }}">
-          {{ site.data.locales[lang].copyright.license.name }}
-        </a>
-        {% endcapture %}
+      {% comment %}
+        <div class="license-wrapper">
+          {% if site.data.locales[lang].copyright.license.template %}
+            {% capture _replacement %}
+          <a href="{{ site.data.locales[lang].copyright.license.link }}">
+            {{ site.data.locales[lang].copyright.license.name }}
+          </a>
+          {% endcapture %}
 
-          {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
-        {% endif %}
-      </div>
+            {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
+          {% endif %}
+        </div>
+      {% endcomment %}
 
-      {% include post-sharing.html lang=lang %}
+      {% comment %} {% include post-sharing.html lang=lang %} {% endcomment %}
     </div>
     <!-- .post-tail-bottom -->
   </div>
