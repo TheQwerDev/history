@@ -64,7 +64,7 @@
   font-family: sans-serif;
   color: var(--topbar-text-color);
   text-align: center;
-  width: 70%;
+  width: 100%;
   word-break: keep-all;
 
   @include bp.lt(bp.get(lg)) {
