@@ -19,7 +19,7 @@ image:
 - Personalitatea sa publică, al cărei cult nu a ajuns la nivelul cultului lui Joseph Stalin, al lui Mao Zedong sau chiar al lui Josip Broz Tito, este cel mai bine simbolizată de numele său popular, Unchiul Ho. El reprezenta unitatea esențială a familiei vietnameze divizate. 
 - Era cunoscut drept "tatăl" poporului vietnamez.
 - Scopul cultului dezvoltat de Ho Chi Minh a fost de a mobiliza țara pentru a îndeplini planurile partidului și ale guvernului. Cu timpul, Partidul Comunist Vietnamez a preluat controlul asupra cultului, păstrându-l pe lider ca reprezentarea sa.
-- Biografii precum _Hu Zhiming zhuan (Povești despre Ho Chi Minh)_, scrisă de Tran Dan Tien și publicată în China în 1949, au jucat un rol important în formarea cultului personalității liderului. _Hu Zhiming zhuan_ prezintă informații bine detaliate care, dacă sunt adevărate, numai Ho Chi Minh le-ar putea ști. Acest fapt sugerează că liderul avea un control puternic asupra imaginii sale, având abilitatea de a controla informațiile ce se puteau cunoaște despre el.
+- Biografii precum _Hu Zhiming zhuan (Povești despre Ho Chi Minh)_, scrisă de Tran Dan Tien și publicată în China în 1949, au jucat un rol important în formarea cultului personalității liderului. _Hu Zhiming zhuan_ prezintă informații bine detaliate care, dacă sunt adevărate, numai Ho Chi Minh le-ar fi putut ști. Acest fapt sugerează că liderul avea un control puternic asupra imaginii sale, având abilitatea de a controla informațiile ce se puteau cunoaște despre el.
 
 > Cultul lui Ho Chi Minh a pus accent pe familie și pe unirea poporului vietnamez. 
 {: .prompt-tip }
@@ -32,7 +32,7 @@ image:
   
 
 
-  
+
 ## Cum este perceput?
 
 ![Desktop View](/assets/img/hostatue1.jpg){: width="800" height="600"}
