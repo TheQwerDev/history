@@ -1,7 +1,6 @@
 ---
 layout: compress
 ---
-
 <!doctype html>
 
 {% include origin-type.html %}
@@ -58,7 +57,7 @@ layout: compress
           </div>
         </div>
 
-        {% include_cached search-results.html lang=lang %}
+        {% comment %} {% include_cached search-results.html lang=lang %} {% endcomment %}
       </div>
 
       <aside aria-label="Scroll to Top">
@@ -81,6 +80,6 @@ layout: compress
       {% include {{ _include_path }} %}
     {% endfor %}
 
-    {% include_cached search-loader.html lang=lang %}
+    {% comment %} {% include_cached search-loader.html lang=lang %} {% endcomment %}
   </body>
 </html>
