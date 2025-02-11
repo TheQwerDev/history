@@ -9,7 +9,7 @@ order: 5
 - Enache Vlad
 - Cadăr Tudor Ștefan
   
-> Vă mulțumim!
+> Vă mulțumim pentru vizionare!
 {: .prompt-tip }
 
 ![Desktop View](/assets/img/thumbsup.png){: width="512" height="512" }

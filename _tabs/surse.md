@@ -3,6 +3,14 @@ icon: fas fa-clipboard-question
 order: 4
 ---
 
-<https://www.britannica.com/biography/Ho-Chi-Minh>
+## Informații
+- <https://www.britannica.com/biography/Ho-Chi-Minh>
+- Olga Dror, The Journal of Asian Studies, Vol.75, No.2, Duke University Press, 2016, pag. 433-466
+  - <https://www.jstor.org/stable/24738615>
 
-bla bla bla britannica chestie wololo
+## Poze
+- <https://augustusinsaigon.uni-trier.de/items/show/324#lg=1&slide=0>
+- <https://en.vietnamplus.vn/president-ho-chi-minh-childrens-beloved-uncle-post201688.vnp>
+  
+
+  
