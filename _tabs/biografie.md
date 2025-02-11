@@ -4,24 +4,18 @@ icon: fas fa-person
 order: 1
 
 description: Cine a fost?
-author: besa
+author: tudor
 toc: true
 image:
   path: /assets/img/biographyimgtop.jpg
-  alt: "[sursa imagine aici]"
+  alt: "Hồ Chí Minh studiind"
 ---
 
-## Info 1
- Duis feugiat nisl et erat interdum mattis. Nulla feugiat a purus ut luctus. Cras ac nisi a felis consectetur pharetra. Quisque blandit sapien ut mi pulvinar, non suscipit lacus sollicitudin. Nulla vitae lorem lorem. Pellentesque finibus blandit leo quis ornare. In porta posuere justo, eget sollicitudin massa mollis sit amet. Suspendisse molestie ut quam id congue. Aenean ligula ante, sodales at luctus id, pharetra at ante. Vestibulum malesuada rutrum lacus. In auctor mattis varius. Nam urna diam, mattis finibus mi ut, ornare sodales enim.
+## Familia
+Nascut in 1890 ca si Nguyễn Sinh Cung in satul Làng Chùa, Hồ Chí Minh a fost fiul lui Nguyễn Sinh Sắc. Conform traditiei confuciene, tatal sau i-a dat noul nume la varsta de 10 ani: Nguyễn Tất Thành. A avut 3 frati: sora sa Bạch Liên (Nguyễn Thị Thanh), o functionara in armata franceza, fratele lui Nguyễn Sinh Khiêm (Nguyễn Tất Đạt), un botanist traditional si celalat frate al sau (Nguyễn Sinh Nhuận), care a murit la o varsta frageda. Tatal sau a fost un carturar Confucian si profesor iar mai apoi un magistrat imperial in micul district izolat Binh Khe (Qui Nhơn). Acesta a fost retrogradat pentru abuz de putere dupa ce o figura influenta locala murise la cateva zile dupa ce primise 102 lovituri de toiag ca si pedeapsa pentru o infractiune. Tatal sau era eligibil pentru a servi in birocratia imperiala, dar a refuzat deoarece ar fi inseamnat sa i serveasca pe francezi. Asta la expus pe Thành (Hồ) la rebeliune la o varsta tanara si se parea ca asta e norma in provincie.
 
-Donec laoreet dapibus libero eu sodales. Aenean semper non justo eu tincidunt. Praesent sed tellus eu tellus commodo mollis. Vestibulum dignissim placerat nisi, a molestie nulla gravida eu. Cras ultrices augue justo, a aliquam enim sagittis eu. Cras iaculis risus enim, eget efficitur tortor blandit ac. Morbi varius dui eu ligula dapibus tempus. Duis viverra, elit eget dignissim tincidunt, mi dui tristique eros, ut facilisis orci urna vel sapien. Maecenas in dolor leo. Donec urna augue, pharetra eget elementum in, venenatis non orci. Proin ut erat ullamcorper, pellentesque tortor vitae, commodo justo. Suspendisse sit amet dapibus nisl, eget venenatis nibh. Sed bibendum ipsum nec massa lobortis, quis ultricies turpis sagittis. 
-
-## Info 2
-Etiam tristique ultrices nunc quis volutpat. Nunc risus urna, interdum quis metus sed, viverra imperdiet nulla. Phasellus eu pellentesque lacus, vel venenatis ipsum. Donec nulla nibh, accumsan vitae sodales eu, tempor et tortor. Ut egestas dictum ligula, non porttitor eros eleifend a. Etiam leo felis, rutrum tincidunt justo quis, pretium porttitor elit. Praesent a quam vestibulum, varius ante non, auctor diam. Aenean auctor neque tortor, in pellentesque risus vulputate non. Integer hendrerit, nisl et sagittis egestas, leo ligula lobortis neque, a aliquam lacus est et ex. Mauris sed nisi non sapien semper sollicitudin.
-
-Morbi laoreet convallis commodo. Etiam fringilla turpis leo, vel tristique mauris lobortis ut. Nullam ultrices enim pretium justo sodales mollis. Donec lobortis, tellus vitae fringilla molestie, eros purus porta velit, nec egestas purus quam ut mauris. Cras felis arcu, blandit ut bibendum vel, porttitor a ligula. Integer facilisis quis metus in sollicitudin. Nullam eget sapien vestibulum, dictum massa eget, elementum ex. Mauris eget dapibus ex. Donec pharetra porta ex, non commodo magna euismod id. In dictum enim sed maximus finibus.
+## Studii
 
 ![Desktop View](/assets/img/thumbsup.png){: width="256" height="256" .w-25 .right}
 
-Nullam sit amet lobortis magna, tempor consequat diam. Suspendisse ut nulla sit amet lorem aliquet ultricies. Praesent sagittis semper erat, vitae accumsan nisl tincidunt vestibulum. Maecenas ullamcorper feugiat sapien ac convallis. Suspendisse porttitor velit malesuada, varius ipsum at, porta libero. Donec iaculis neque auctor lacus molestie vulputate. Nunc ultricies arcu vitae nunc rhoncus aliquet ac ut neque. Nulla facilisis malesuada tincidunt. Phasellus dignissim tincidunt tellus sed cursus. Aenean sit amet suscipit elit, non pretium odio. Aliquam erat volutpat. 
-
+none
