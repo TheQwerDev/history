@@ -35,6 +35,14 @@ image:
 
 ## Cum este perceput?
 
+S-au realizat numeroase filme despre Ho Chi Minh, majoritatea cu subiect biografic si istoric. Cateva din aceste filme sunt:
+![Desktop View](/assets/img/hofilm.jpg){: }
+- Thau Chin o Xiem (Ho Chi Minh in Siam) (2015)
+  - Film despre calatoria lui Ho Chi Minh de la Bangkok la U-Don Thani din perioada 1927-1929
+- Ho Chi Minh: Vietnam's Enigma (2007)
+  - Film care analizeaza lupta lui Ho Chi Minh pentru independenta Vietnamului
+
+S-au construit doua statui in onoarea lui Ho Chi Minh care simbolizeaza impactul pe care l-a avut liderul asupra culturii vietnameze si care evidentiaza rolul sau de "tata" al poporului.
 ![Desktop View](/assets/img/hostatue1.jpg){: width="800" height="600"}
 _Statuie construită în 1990, după 100 de ani de la nașterea lui Ho Chi Minh (locație: Casa comitetului poporului, Ho Chi Minh City)_
 ![Desktop View](/assets/img/hostatue2.jpg){: width="2089" height="1567"}
