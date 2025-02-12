@@ -30,11 +30,20 @@ image:
 - În Vietnam, sute de lucrari au fost scrise despre Ho Chi Minh. Toate perpetuează imaginea unui lider revoluționar devotat, tatăl poporului său, fără nicio analiză critică a vieții sau a lucrării sale.
 - În Vest, primele lucrări despre Ho Chi Minh au apărut la finalul primei jumătăți a secolului XX. Acestea au analizat liderul dintr-o perspectivă politică, concentrându-se asupra poziției sale de erou național și liberator sau de agent al Uniunii Sovietice sau al sistemului comunist mondial. (Mohan 1951; Renaud 1949; Rous 1947)
   
-
-
+<br><br>
 
 ## Cum este perceput?
 
+S-au realizat numeroase filme despre Ho Chi Minh, majoritatea cu subiect biografic și istoric. Câteva din aceste filme sunt:
+![Desktop View](/assets/img/hofilm.jpg){: width="840" height="1200" .w-25 .right}
+- Thau Chin o Xiem (Ho Chi Minh in Siam) (2015)
+  - Film despre călătoria lui Ho Chi Minh de la Bangkok la U-Don Thani din perioada 1927-1929
+- Ho Chi Minh: Vietnam's Enigma (2007)
+  - Film care analizează lupta lui Ho Chi Minh pentru independența Vietnamului
+
+<br><br>
+
+S-au construit două statui în onoarea lui Ho Chi Minh care simbolizează impactul pe care l-a avut liderul asupra culturii vietnameze și care evidențiază rolul său de "tată" al poporului.
 ![Desktop View](/assets/img/hostatue1.jpg){: width="800" height="600"}
 _Statuie construită în 1990, după 100 de ani de la nașterea lui Ho Chi Minh (locație: Casa comitetului poporului, Ho Chi Minh City)_
 ![Desktop View](/assets/img/hostatue2.jpg){: width="2089" height="1567"}
