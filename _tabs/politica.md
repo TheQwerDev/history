@@ -46,7 +46,7 @@ _(Adunare revoluționară la teatrul de operă din Hanoi, Vietnam / dată: 19 au
 {: .prompt-tip }
 
 ## Politica Internă
-- Pe parcursul președinție, Ho a promovat socialismul agrar, adunând țărani și muncitori prin promisiuni de reformă agrară și independență. A efectuat redistribuirea timpurie a pământului în zonele eliberate, confiscând pământ de la proprietari și dându-l țăranilor. Vietnamul a fost unul dintre cei mai importanți producători de orez din Indochina, exportând orez în China și alte piețe din Asia de Sud-Est.
+- Pe parcursul anilor, Ho a promovat socialismul agrar, adunând țărani și muncitori prin promisiuni de reformă agrară și independență. A efectuat redistribuirea timpurie a pământului în zonele eliberate, confiscând pământ de la proprietari și dându-l țăranilor. Vietnamul a fost unul dintre cei mai importanți producători de orez din Indochina, exportând orez în China și alte piețe din Asia de Sud-Est.
 
 ![Desktop View](/assets/img/vietnammap.webp){: width="800" height="600" .w-25 .right}
 
