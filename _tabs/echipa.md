@@ -13,4 +13,3 @@ order: 5
 {: .prompt-tip }
 
 ![Desktop View](/assets/img/thumbsup.png){: width="512" height="512" }
-_awesome sauce!_
