@@ -8,7 +8,7 @@ author: tudor
 toc: true
 image:
   path: /assets/img/biographyimgtop.jpg
-  alt: "Hồ Chí Minh studiind"
+  alt: "Hồ Chí Minh așezat la biroul lui în timpul luptei împotriva francezilor (an: circa 1950)"
 ---
 
 ## Familia
