@@ -51,8 +51,16 @@ image:
 ![Desktop View](/assets/img/hostatue1.jpg){: width="800" height="600"}
 _Statuie construită în 1990, după 100 de ani de la nașterea lui Ho Chi Minh (locație: Casa comitetului poporului, Ho Chi Minh City)_
 ![Desktop View](/assets/img/hostatue2.jpg){: width="2089" height="1567"}
-_Statuie construită în 2015, dupa 40 de ani de la finalul Războiului Vietnamez (locație: Casa comitetului poporului, Ho Chi Minh City)_
+_Statuie construită în 2015, dupa 40 de ani de la finalul Războiului Vietnamez (locație: Casa comitetului poporului, Ho Chi Minh City, Vietnam)_
+
+- S-a construit un mausoleu în memoria liderului. Construcția a fost efectuată împotriva voinței lui Ho Chi Minh, acesta dorind, în schimb, să fie incinerat și părți din cenușa sa să fie îngropate în nordul, centrul și sudul Vietnamului.
+![Desktop View](/assets/img/homausoleum.jpg){: width="1920" height="1080"}
+_Mausoleul lui Ho Chi Minh construit în 1975 (locație: districtul Ba Dinh, Hanoi, Vietnam)_
 
 > În prezent, Ho Chi Minh încă este o persoană respectată în comunitățile vietnameze, dar este considerat și o figură controversată de mulți oameni din afara Vietnamului și de diaspora vietnameză. Totuși, nu a primit același nivel de critică precum alți lideri comuniști.
 {: .prompt-tip }
 <!-- ![Desktop View](/assets/img/thumbsup.png){: width="256" height="256" .w-25 .right} -->
+
+## Cărți
+
+Ho Chi Minh a scris nenumărate cărți, cele mai importante fiind:
