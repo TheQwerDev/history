@@ -61,6 +61,16 @@ _Mausoleul lui Ho Chi Minh construit în 1975 (locație: districtul Ba Dinh, Han
 {: .prompt-tip }
 <!-- ![Desktop View](/assets/img/thumbsup.png){: width="256" height="256" .w-25 .right} -->
 
-## Cărți
+## Lucrări
 
-Ho Chi Minh a scris nenumărate cărți, cele mai importante fiind:
+Ho Chi Minh a scris nenumărate lucrări, cele mai importante fiind:
+
+- "Đường Kách Mệnh" (Drumul Revoluționar)
+![Desktop View](/assets/img/revbook.jpg){: width="1920" height="1080" .w-25 .right}
+- "Tuyên ngôn Độc lập" (Declarația de independență a Republicii Democratice Vietnam)
+- "Nhật Ký Trong Tù" (Jurnalul de închisoare)
+- "Di Chúc" (Testament)
+- "Con đường dẫn tôi đến chủ nghĩa Lênin" (Calea care m-a condus spre leninism)
+![Desktop View](/assets/img/independence.jpg){: width="2560" height="1085" .right}
+
+<br><br><br><br><br><br><br><br><br><br>
