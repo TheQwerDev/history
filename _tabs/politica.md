@@ -15,7 +15,7 @@ image:
 
 ## Preluarea Puterii
 
-- Sub numele de Nguyen Ai Quoc, Ho organizează un grup de vietnamezi care locuiau alături de el în Franța și prezintă o petiție la Conferința de Pace de la Versailles, cerând ca puterea colonială franceză să acorde supușilor săi din Indochina drepturi egale cu conducătorii. Acest act nu a adus niciun răspuns din partea lor, dar l-a făcut un erou pentru mulți vietnamezi conștienți din punct de vedere politic.
+- Între anii 1917 - 1923, sub numele de Nguyen Ai Quoc, Ho organizează un grup de vietnamezi care locuiau alături de el în Franța și prezintă o petiție la Conferința de Pace de la Versailles, cerând ca puterea colonială franceză să acorde supușilor săi din Indochina drepturi egale cu conducătorii. Acest act nu a adus niciun răspuns din partea lor, dar l-a făcut un erou pentru mulți vietnamezi conștienți din punct de vedere politic.
 
 - În mai 1929, Ho și membrii Thanh Nien formează Partidul Comunist Indochinez. Crearea partidului a coincis cu o mișcare insurecțională violentă în Vietnam.
 
