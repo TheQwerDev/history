@@ -38,7 +38,7 @@ _(Adunare revoluționară la teatrul de operă din Hanoi, Vietnam / dată: 19 au
 
 - Pe 6 martie, conform termenilor acestuia, Vietnamul a fost recunoscut ca un "stat liber cu propriul guvern, armata și finanțe", dar a fost integrat într-o Uniune Franceză în care Parisul a continuat să joace rolul cheie.
 
-- Acordul a fost nesatisfăcător pentru extremiștii de ambele părți, iar Ho Chi Minh a mers în Franța pentru o serie de conferințe și a încheiat un al doilea acord cu guvernul francez. Dar pacea a fost ruptă de un incident la Haiphong, când o navă militară de luptă francez a deschis focul asupra orașului după o dispută între soldații francezi și vietnamezi.
+- Acordul a fost nesatisfăcător pentru extremiștii de ambele părți, iar Ho Chi Minh a mers în Franța pentru o serie de conferințe și a încheiat un al doilea acord cu guvernul francez. Dar pacea a fost ruptă de un incident la Haiphong, când o navă militară de luptă francezā a deschis focul asupra orașului după o dispută între soldații francezi și vietnamezi.
 
 - Primul Război din Indochina a început pe 19 decembrie. Armata Viet Minh, comandată de Giap, a reușit să rețină forțele franceze cu tactici de gherilă și terorism, iar până la sfârșitul anului 1953 cea mai mare parte a zonei rurale era sub controlul Viet Minh. Francezii au fost învinși decisiv la Dien Bien Phu pe 7 mai 1954 și nu au avut de ales decât să negocieze.
 
